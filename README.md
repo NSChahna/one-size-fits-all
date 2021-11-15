@@ -1,5 +1,3 @@
-The Unix Workbench
-
 
 guessinggame.sh
 
